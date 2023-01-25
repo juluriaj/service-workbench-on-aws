@@ -192,7 +192,7 @@ class ScEnvironmentCard extends React.Component {
           </div>
           <List bulleted>
             <List.Item
-              href="https://github.com/awslabs/service-workbench-on-aws/blob/mainline/docs/Service_Workbench_Post_Deployment_Guide.pdf"
+              href="https://awslabs.github.io/service-workbench-on-aws-cn/deployment/post_deployment/aws_accounts#creating-rstudio-alb-workspace"
               target="_blank"
               rel="noopener noreferrer"
             >
